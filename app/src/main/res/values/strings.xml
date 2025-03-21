@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">A3_30DaysApp_457647</string>
+    <string name="name1">Lechona</string>
+    <string name="country1">Colombia</string>
+    <string name="info1">Lechona is a traditional dish consisting of a roasted pig stuffed with onions, peas, fresh herbs, and various spices. The pig is roasted for a long time until the meat is tender and succulent. The dish is usually prepared for celebrations and festivities since one lechona can produce as many as 100 servings</string>
+
+    <string name="name2">Pizza Napoletana</string>
+    <string name="country2">Italy</string>
+    <string name="info2">Italy’s most emblematic culinary creation, the genuine pizza Napoletana is made with just a few simple ingredients and prepared in only two variations – marinara, the basic Neapolitan pizza topped with a tomato-based sauce flavored with garlic and oregano, and margherita, which is topped with tomatoes, mozzarella, and fresh basil leaves, a delicious combination whose colors are said to represent the Italian flag.</string>
+
+    <string name="name3">Picanha</string>
+    <string name="country3">Brazil</string>
+    <string name="info3">Picanha is a popular Brazilian cut of beef, known for its thick fat cap and rich flavor. It is typically cooked on skewers, grilled over an open flame in churrascarias, and served in slices. The meat is seasoned simply with salt to enhance its natural taste.</string>
+
+    <string name="name4">Rechta</string>
+    <string name="country4">Algeria</string>
+    <string name="info4">Rechta is a traditional Algerian dish consisting of thin, flat noodles served with a chicken-based sauce. The noodles are often made from semolina and the sauce is spiced with cinnamon, saffron, and other aromatic herbs, giving it a rich and fragrant flavor.</string>
+
+    <string name="name5">Phanaeng Curry</string>
+    <string name="country5">Thailand</string>
+    <string name="info5">Phanaeng curry is a rich and aromatic Thai curry made with meat, such as chicken or beef, cooked in a creamy coconut milk broth. The curry paste is made from a blend of spices including red chili, lemongrass, and kaffir lime, offering a deep, savory flavor.</string>
+
+    <string name="name6">Asado</string>
+    <string name="country6">Argentina</string>
+    <string name="info6">Asado is an Argentine barbecue tradition where various cuts of meat, including beef, sausages, and ribs, are cooked on a grill (parrilla) or open flame. The meat is often seasoned with chimichurri, a tangy herb sauce, and served with salads and bread.</string>
+
+    <string name="name7">Çökertme Kebabı</string>
+    <string name="country7">Turkey</string>
+    <string name="info7">Çökertme Kebabı is a Turkish dish made from tender veal cooked with a blend of spices and served with a rich yogurt sauce. It is typically accompanied by crispy potatoes and rice, offering a delightful mix of textures and flavors.</string>
+
+    <string name="name8">Rawon</string>
+    <string name="country8">Indonesia</string>
+    <string name="info8">Rawon is an Indonesian beef soup characterized by its dark, rich broth made from keluak nuts. The soup is typically served with steamed rice and garnished with fried shallots and sambal, creating a flavorful and hearty dish.</string>
+
+    <string name="name9">Cağ Kebabı</string>
+    <string name="country9">Turkey</string>
+    <string name="info9">Cağ Kebabı is a Turkish lamb dish from the Erzurum region. The lamb is marinated with spices, skewered horizontally, and cooked over an open flame. It is typically served with flatbread, tomatoes, and onions.</string>
+
+    <string name="name10">Tibs</string>
+    <string name="country10">Ethiopia</string>
+    <string name="info10">Tibs is an Ethiopian stir-fry dish made with beef or lamb sautéed with vegetables, including onions, peppers, and garlic. The dish is flavored with berbere spice mix and served with injera, a traditional sour flatbread.</string>
+
+    <string name="name11">Biang Biang Noodles</string>
+    <string name="country11">China</string>
+    <string name="info11">Biang Biang Noodles are thick, hand-pulled noodles from the city of Xian. These chewy noodles are typically served with a spicy sauce made from chili oil, garlic, and soy sauce, and are often topped with vegetables and meat.</string>
+
+    <string name="name12">Cochinita Pibil</string>
+    <string name="country12">Mexico</string>
+    <string name="info12">Cochinita Pibil is a slow-cooked Mexican dish from the Yucatán region. It consists of pork marinated in achiote paste and citrus juice, then wrapped in banana leaves and cooked in a pit, resulting in tender, flavorful meat.</string>
+
+    <string name="name13">Châteaubriand</string>
+    <string name="country13">France</string>
+    <string name="info13">Châteaubriand is a French dish featuring a thick cut of beef from the tenderloin, typically grilled or pan-seared. It is often served with a rich sauce, such as béarnaise, and accompanied by vegetables or potatoes.</string>
+
+    <string name="name14">Pernil</string>
+    <string name="country14">Puerto Rico</string>
+    <string name="info14">Pernil is a Puerto Rican dish consisting of slow-roasted pork shoulder, marinated with garlic, adobo, and herbs. It is commonly served with rice, beans, and plantains during festive occasions.</string>
+
+    <string name="name15">Unadon</string>
+    <string name="country15">Japan</string>
+    <string name="info15">Unadon is a Japanese dish consisting of grilled eel glazed with a sweet soy-based sauce, served over a bowl of steamed rice. The eel is tender and flavorful, making this a popular dish in Japan.</string>
+
+    <string name="name16">Païdakia</string>
+    <string name="country16">Greece</string>
+    <string name="info16">Païdakia is a Greek dish of grilled lamb chops, typically marinated in olive oil, garlic, and herbs like rosemary. The chops are then grilled to perfection and served with a side of salad or vegetables.</string>
+
+    <string name="name17">Khao Soi</string>
+    <string name="country17">Thailand</string>
+    <string name="info17">Khao Soi is a northern Thai noodle soup made with egg noodles in a rich, curry-flavored broth. The soup is often topped with crispy noodles, pickled mustard greens, and a squeeze of lime for added flavor.</string>
+
+    <string name="name18">Amêijoas à Bulhão Pato</string>
+    <string name="country18">Portugal</string>
+    <string name="info18">Amêijoas à Bulhão Pato is a Portuguese dish of clams cooked in a fragrant sauce made from garlic, white wine, and fresh cilantro. It is typically served with crusty bread to soak up the delicious broth.</string>
+
+    <string name="name19">Mechouia Salad</string>
+    <string name="country19">Tunisia</string>
+    <string name="info19">Mechouia Salad is a traditional Tunisian salad made from grilled vegetables like peppers, tomatoes, and onions. The vegetables are finely chopped and mixed with olive oil, garlic, and spices, resulting in a smoky and flavorful salad.</string>
+
+    <string name="name20">Chakhchoukha</string>
+    <string name="country20">Algeria</string>
+    <string name="info20">Chakhchoukha is an Algerian dish made with pieces of torn flatbread served in a stew made of meat and vegetables, typically flavored with spices like cumin and coriander. It is a hearty and satisfying dish.</string>
+
+    <string name="name21">Cordero Asado</string>
+    <string name="country21">Spain</string>
+    <string name="info21">Cordero Asado is a Spanish roasted lamb dish that is often prepared for special occasions. The lamb is roasted with garlic, rosemary, and olive oil, creating a tender and flavorful meat, often served with potatoes or vegetables.</string>
+
+    <string name="name22">Weihnachtsgans</string>
+    <string name="country22">Germany</string>
+    <string name="info22">Weihnachtsgans is a traditional German Christmas dish consisting of roast goose, usually served with red cabbage, potatoes, and gravy. The goose is often flavored with herbs like thyme and bay leaves.</string>
+
+    <string name="name23">Pempek</string>
+    <string name="country23">Indonesia</string>
+    <string name="info23">Pempek is an Indonesian fish cake from the city of Palembang. It is made from fish and tapioca, then deep-fried and served with a sweet and sour vinegar-based sauce called cuko.</string>
+
+    <string name="name24">Tagliatelle al Ragù alla Bolognese</string>
+    <string name="country24">Italy</string>
+    <string name="info24">Tagliatelle al Ragù alla Bolognese is a classic Italian pasta dish from Bologna. It features wide ribbons of tagliatelle pasta topped with a rich meat sauce made from beef, pork, tomatoes, and wine.</string>
+
+    <string name="name25">Tonkotsu Ramen</string>
+    <string name="country25">Japan</string>
+    <string name="info25">Tonkotsu Ramen is a Japanese noodle soup made with a rich and creamy pork bone broth. The soup is topped with various ingredients like pork belly, boiled eggs, and green onions, and served with noodles.</string>
+
+    <string name="name26">İskender Kebab</string>
+    <string name="country26">Turkey</string>
+    <string name="info26">İskender Kebab is a Turkish dish made with döner meat served over pita bread and topped with a rich tomato sauce and yogurt. It is a flavorful and satisfying dish that is often served with rice and vegetables.</string>
+
+    <string name="name27">Pappardelle al Cinghiale</string>
+    <string name="country27">Italy</string>
+    <string name="info27">Pappardelle al Cinghiale is a traditional Italian dish from Tuscany, featuring wide ribbons of pasta served with a wild boar ragu. The sauce is rich and flavorful, made with red wine, tomatoes, and herbs.</string>
+
+    <string name="name28">Kuzu Şiş</string>
+    <string name="country28">Turkey</string>
+    <string name="info28">Kuzu Şiş is a Turkish lamb skewer dish, where tender lamb chunks are marinated in olive oil, garlic, and spices, then grilled to perfection. It is typically served with flatbread and yogurt.</string>
+
+    <string name="name29">Murgh Makhani</string>
+    <string name="country29">India</string>
+    <string name="info29">Murgh Makhani, also known as Butter Chicken, is a classic Indian dish made with tender chicken cooked in a creamy, tomato-based sauce. It is often served with naan or rice and flavored with a blend of aromatic spices.</string>
+
+    <string name="name30">Escondidinho</string>
+    <string name="country30">Brazil</string>
+    <string name="info30">Escondidinho is a Brazilian casserole made with layers of mashed cassava and various fillings, such as beef, cheese, or shrimp. It is baked until golden and served as a comforting, hearty dish.</string>
+
+</resources>
